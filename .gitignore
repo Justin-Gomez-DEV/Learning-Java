@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 .kotlin
 .idea/
+src/Learning Java.iml
 
 ### Eclipse ###
 .apt_generated
